@@ -15,7 +15,26 @@
 
   ],
   "tasks":[
-    
+    {
+      "task": "pubg",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "task": "design",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "task": "ui ux",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "task": "cricket",
+      "userId": 1,
+      "id": 6
+    }
   ]
  
 }
